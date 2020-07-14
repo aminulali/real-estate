@@ -1,4 +1,7 @@
-# real-estate
 Real Estate Project
 
-Open: index.html --- style.css --- app.js
+Technologies used: HTML, CSS, JavaScript
+
+About: A real estate website.
+
+To view code, open files -> index.html --- style.css --- contact-us.html
